@@ -1,2 +1,23 @@
-# AureliaJS_customer_manager
-Built a small customer manager application using the Aurelia JS framework along with JavaScript local storage to persist the data to the client.
+# AureliaJS Customer Manager App
+
+Simple customer manager app built on the Aurelia JS framework that implements the localStorage API to store customers
+
+### Version
+1.0.0
+
+## Usage
+
+### Installation
+
+Download or clone project
+
+```sh
+$ npm install -g http-server
+```
+
+### Serve
+To serve in the browser
+
+```sh
+$ http-server
+```
