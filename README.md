@@ -5,6 +5,9 @@ Simple customer manager app built on the Aurelia JS framework that implements th
 ### Version
 1.0.0
 
+### Demo
+https://aivazovskiiroman.github.io/AureliaJS_customer_manager/
+
 ## Usage
 
 ### Installation
